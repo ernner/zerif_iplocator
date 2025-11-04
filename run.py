@@ -12,7 +12,7 @@ print("""\033[1;32m\n _____          _  __    _____         __                 _
                               |_|                                       
                               
 Version : 1.0
-Github : @ivanwebdevs
+Github : @ernner
 """);
 BLACK = "\033[0;30m"
 RED = "\033[0;31m"
